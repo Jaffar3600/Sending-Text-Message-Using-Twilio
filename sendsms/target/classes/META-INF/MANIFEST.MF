@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user123
+Build-Jdk: 9.0.4
+Implementation-Title: sendsms
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cg.sendsms
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sendsms
+Created-By: Maven Integration for Eclipse
+
